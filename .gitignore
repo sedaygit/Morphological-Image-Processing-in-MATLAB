@@ -1,0 +1,25 @@
+# Ignore MATLAB automatic folders and backup files
+*.asv
+*.m~
+*.mlx~
+*.mat
+*.fig
+*.p
+*.slxc
+*.slxp
+*.sldd
+
+# Ignore workspace and cache files
+*.autosave
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific settings
+*.prj
+*.mlproj
+*.mldatx
+
+# Ignore generated images or results (optional)
+output/
+results/
